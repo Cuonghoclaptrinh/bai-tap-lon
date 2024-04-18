@@ -1,0 +1,8 @@
+-Tạo một project trên github
+   1.Tạo một github reponsitory(folder)-nơi chứa code
+   2.Clone project : git clone link
+   3.viết code
+	git status(kiểm tra trạng thái file)
+	git add .(thêm file)
+	git commit -m "your message" (tạo nội dung commit)
+	git push origin main(đẩy file)
